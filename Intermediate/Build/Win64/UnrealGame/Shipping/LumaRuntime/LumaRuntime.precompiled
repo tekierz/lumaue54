@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\LumaRuntime\\Module.LumaRuntime.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\LumaRuntime\\LumaField.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\LumaRuntime\\LumaRuntime.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\LumaRuntime\\LumaScene.cpp.obj"
+	]
+}

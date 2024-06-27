@@ -1,0 +1,8 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"LumaEditor": "UnrealEditor-LumaEditor.dylib",
+		"LumaRuntime": "UnrealEditor-LumaRuntime.dylib"
+	}
+}
